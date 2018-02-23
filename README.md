@@ -1,2 +1,2 @@
-# LearningR
-Compilation of files related to R problems
+# LearningPython
+Compilation of files related to Python problems
